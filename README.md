@@ -46,11 +46,8 @@ The dataset consists of 20 records, each representing a participant's test resul
 
 ### Visualizations:
 - Bar chart for diagnosis: A bar chart was created to visualize the distribution of diagnoses, with the majority of participants having no brain impairment.
-
 - Boxplot of Total Scores by Education Level: Shows how total scores vary across different education levels, providing insight into potential patterns related to cognitive skills and educational background.
-
 - Boxplot of Total Scores by Previous Test Experience: Examines how prior experience with the test might influence scores, revealing differences between those who have taken the test before and those who have not.
-
 - Most common error: A bar plot comparing the total value per error, showing which factors tend to have the most significant impact on the scores.
 
 
@@ -71,11 +68,19 @@ Participants were recruited from Duke University and through social media to ens
 
 
 ## Ethics Statement
-This research:
-- Only includes participants aged 18 and older
-- Collects minimal personal information
-- Ensures voluntary participation
-- Maintains data privacy
+This research ensure the privacy of participants. The key ethical considerations are:
+
+- Informed Consent: All participants were fully informed about the purpose of the study, the data being collected, and how it would be used.
+
+- Age Requirement: Only individuals aged 18 and older were included in the study.
+
+- Minimal Data Collection: The dataset collects only the necessary information, such as demographic details (age, nationality, and education level) and participant drawings, to ensure that participants’ privacy is respected. Sensitive information is not included in the dataset.
+
+- Confidentiality: All collected data is stored securely. Personal information is anonymized to protect participants’ identities.
+
+- Voluntary Participation: Participation in the study was voluntary, and participants had the option to withdraw at any time without consequence. No incentive was provided for participation.
+
+- Data Usage: The collected data will solely be used for research and academic purposes, including the development of machine learning models for automated Bender-Gestalt Test scoring. Any potential publication or sharing of results will be done without identifying individual participants.
 
 
 ## License
