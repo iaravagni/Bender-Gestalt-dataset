@@ -33,6 +33,7 @@ The dataset comprises 20 participant records with:
 - Statistical Test: Two-sample t-test for independent groups, comparing manual and automated scores.
 - Effect Size: A large effect size of 0.8 is expected, based on Cohen’s recommendations.
 - Statistical Significance Level and Power: Set at 0.05 and 0.80, respectively.
+  
 The recommended sample size is 52 participants; however, this dataset currently contains 20, representing a shortfall of 32 participants.
 
 ## Exploratory Data Analysis
