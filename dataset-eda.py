@@ -58,17 +58,16 @@ columns_to_plot = [
     'angulation', 'cohesion', 'time'
 ]
 
-mean_values = df[columns_to_plot].sum().sort_values(ascending=False)
+error_values = df[columns_to_plot].sum().sort_values(ascending=False)
 
 plt.figure(figsize=(10, 6))
-sns.barplot(x=mean_values.index, y=mean_values.values)
+sns.barplot(x=error_values.index, y=error_values.values)
 plt.title('Parameters Ordered from Largest to Smallest')
 plt.xlabel('Parameter')
 plt.ylabel('Score')
 plt.xticks(rotation=45)
 plt.tight_layout()
 plt.show()
-
 # --- Pytest for CSV reading ---
 def test_pd_read_scores():
     """Test if the scores CSV is read correctly"""
