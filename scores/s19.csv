@@ -1,0 +1,14 @@
+error,A,1,2,3,4,5,6,7,8,Present
+rotation,0,0,0,0,0,0,0,0,0,0
+overlapping_difficulty,NaN,NaN,NaN,NaN,NaN,NaN,1,0,NaN,1
+simplication,0,1,0,1,0,1,0,0,0,1
+fragmentation,0,0,0,0,0,0,0,0,0,0
+retrogression,0,0,0,0,NaN,0,NaN,0,0,0
+perseveration,NaN,1,0,1,NaN,1,NaN,NaN,NaN,1
+collision,0,0,0,0,0,0,0,0,0,0
+impotence,0,0,0,0,0,0,0,0,0,0
+closure_difficulty,0,NaN,NaN,NaN,0,NaN,NaN,0,NaN,0
+motor_incoordination,0,0,0,0,0,0,0,0,0,0
+angulation,NaN,NaN,0,0,NaN,NaN,NaN,NaN,NaN,0
+cohesion,0,0,0,0,0,0,0,0,0,0
+time,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0

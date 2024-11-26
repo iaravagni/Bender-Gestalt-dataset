@@ -1,0 +1,27 @@
+id,rotation,overlapping_difficulty,simplication,fragmentation,retrogression,perseveration,collision,impotence,closure_difficulty,motor_incoordination,angulation,cohesion,time,total_score,diagnose
+s01,0,0,1,0,0,1,0,0,0,1,0,0,0,3,absence of brain impairment
+s02,0,1,1,0,0,1,0,0,1,0,0,0,0,4,borderline
+s03,0,1,0,0,0,0,0,0,1,0,0,0,0,2,absence of brain impairment
+s04,0,0,1,0,0,0,0,0,0,0,0,0,0,1,absence of brain impairment
+s05,0,0,1,0,0,0,0,0,1,0,0,0,0,2,absence of brain impairment
+s06,0,0,0,0,0,0,0,0,0,0,0,1,1,2,absence of brain impairment
+s07,0,1,1,0,1,1,1,1,1,0,0,0,0,7,strong evidence for brain impairment
+s08,0,1,0,0,0,1,0,0,0,0,0,0,0,2,absence of brain impairment
+s09,0,1,1,0,0,0,0,0,0,0,0,0,0,2,absence of brain impairment
+s10,0,0,1,0,0,0,0,0,0,1,0,0,0,2,absence of brain impairment
+s11,0,0,0,0,0,0,0,0,0,1,0,0,0,1,absence of brain impairment
+s12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,absence of brain impairment
+s13,0,0,0,0,0,0,0,0,0,1,0,0,0,1,absence of brain impairment
+s14,0,0,1,0,0,1,0,0,0,1,0,0,0,3,absence of brain impairment
+s15,0,0,1,0,0,0,0,0,1,1,0,1,0,4,borderline
+s16,0,1,1,0,0,0,0,0,0,0,0,0,0,2,absence of brain impairment
+s17,0,1,1,0,0,1,0,0,1,0,0,0,0,4,borderline
+s18,0,1,1,0,0,1,0,0,1,0,0,0,0,4,borderline
+s19,0,1,1,0,0,1,0,0,0,0,0,0,0,3,absence of brain impairment
+s20,0,1,1,0,0,1,0,0,1,0,0,0,0,4,borderline
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
