@@ -10,10 +10,11 @@ The Bender-Gestalt Test dataset aims to automate the scoring process of pre-empl
 ## Description of Data
 The dataset comprises 20 participant records with:
 
-### Scores Summary:
+### Scores:
 - 14 scoring parameters
 - Total scores
 - Diagnosis
+- 20 csv files containing the detail score calculation per participant
 
 ### Metadata:
 - Age range: 22-57 years
@@ -23,8 +24,7 @@ The dataset comprises 20 participant records with:
 ### Images:
 - 20 images with the drawing of each participant
 
-### Score:
-- 20 csv files containing the detail score calculation per participant
+
 
 
 ## Power Analysis
@@ -36,11 +36,23 @@ The dataset comprises 20 participant records with:
 The recommended sample size is 52 participants; however, this dataset currently contains 20, representing a shortfall of 32 participants.
 
 ## Exploratory Data Analysis
-Score Distribution:
-- Mean total score: 2.65
-- Most common diagnosis: Absence of brain impairment (14 cases)
-- Borderline cases: 5
-- Strong evidence for brain impairment: 1 case
+### Dataset Overview:
+The dataset consists of 20 records, each representing a participant's test results and demographic information:
+- Mean Total Score: 2.65
+- Most Common Diagnosis: Absence of brain impairment (14 cases)
+- Borderline Cases: 5
+- Strong Evidence for Brain Impairment: 1 case
+
+
+### Visualizations:
+- Bar chart for diagnosis: A bar chart was created to visualize the distribution of diagnoses, with the majority of participants having no brain impairment.
+
+- Boxplot of Total Scores by Education Level: Shows how total scores vary across different education levels, providing insight into potential patterns related to cognitive skills and educational background.
+
+- Boxplot of Total Scores by Previous Test Experience: Examines how prior experience with the test might influence scores, revealing differences between those who have taken the test before and those who have not.
+
+- Most common error: A bar plot comparing the total value per error, showing which factors tend to have the most significant impact on the scores.
+
 
 ## Data Collection Protocol
 Participants were recruited from Duke University and through social media to ensure broad outreach. Only candidates aged 18 and older were accepted. The data collection process involved the following steps:

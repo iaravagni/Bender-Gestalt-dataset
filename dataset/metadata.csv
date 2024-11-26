@@ -1,21 +1,21 @@
-id,age,nacionality,education_level,taken_test_before,test_duration
-s01,26,Argentine,Bachelor's Degree,Yes,6
-s02,27,Argentine,Bachelor's Degree,Yes,6
-s03,54,Argentine,Bachelor's Degree,No,6
-s04,24,Argentine,High School Diploma,No,3
-s05,57,Argentine,Master's Degree,No,5
-s06,29,Portuguese,High School Diploma,Yes,23
-s07,56,Argentine,Bachelor's Degree,No,1
-s08,56,Uruguayan ,Bachelor's Degree,No,5
-s09,26,Argentine,Master's Degree,No,5
-s10,24,Indian,Master's Degree,No,4
-s11,26,Argentine,Bachelor's Degree,Yes,7
-s12,27,Argentine,Bachelor's Degree,No,11
-s13,29,American,Bachelor's Degree,No,8
-s14,22,Indian,Master's Degree,No,4
-s15,23,American,Bachelor's Degree,No,3
-s16,24,Tunisian ,Master's Degree,No,5
-s17,23,Indian,Master's Degree,No,4
-s18,22,Indian,Master's Degree,No,5
-s19,24,Indian,Master's Degree,No,4
-s20,24,Indian,Master's Degree,No,5
+id,age,nacionality,education_level,taken_test_before
+s01,26,Argentine,Bachelor's Degree,Yes
+s02,27,Argentine,Bachelor's Degree,Yes
+s03,54,Argentine,Bachelor's Degree,No
+s04,24,Argentine,High School Diploma,No
+s05,57,Argentine,Master's Degree,No
+s06,29,Portuguese,High School Diploma,Yes
+s07,56,Argentine,Bachelor's Degree,No
+s08,56,Uruguayan ,Bachelor's Degree,No
+s09,26,Argentine,Master's Degree,No
+s10,24,Indian,Master's Degree,No
+s11,26,Argentine,Bachelor's Degree,Yes
+s12,27,Argentine,Bachelor's Degree,No
+s13,29,American,Bachelor's Degree,No
+s14,22,Indian,Master's Degree,No
+s15,23,American,Bachelor's Degree,No
+s16,24,Tunisian ,Master's Degree,No
+s17,23,Indian,Master's Degree,No
+s18,22,Indian,Master's Degree,No
+s19,24,Indian,Master's Degree,No
+s20,24,Indian,Master's Degree,No
